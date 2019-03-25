@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/atlassian/go-sentry-api/datatype"
 	"github.com/getsentry/raven-go"
+	"github.com/quantonganh/go-sentry-api/datatype"
 )
 
 func TestEventsResource(t *testing.T) {
